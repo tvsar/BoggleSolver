@@ -1,0 +1,4 @@
+*.o
+onePlayerBoggle
+spellcheck
+*.dSYM
