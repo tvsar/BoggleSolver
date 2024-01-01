@@ -1,4 +1,4 @@
-# Project 1a : Boggle Solver (in C)
+# C Boggle Solver
 
 ## How to compile
 
