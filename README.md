@@ -18,15 +18,7 @@ make onePlayerBoggle
 
 Note the test file may take some time to run because of `valgrind`. If you are completing this project on replit, this may be quite, quite slow. I recommend you use smaller dictionaries and test different aspects of your program and avoid simply testing with `./teset.sh`
 
-## Help Received
-
-Please document any help you received in completing this lab. Note that the what you submit should be your own work. Refer to the syllabus for more details. 
-
-[ANSWER HERE]
-
-## Describe your work
-
-Please provide a short description of your programming progress
+## Program Description
 
 Basic work for llist.c was done following the nodes to a degree that the linked list would allow. ll_init() was completed by allocating space for the head and setting the size as part of the initialization method. ll_delete() followed a pointer, freeing nodes as they were passed, then freeing the llist_t strucutre itself. ll_push() required making a new node pointing to the old head, then setting the new head equal to the new node.
 
